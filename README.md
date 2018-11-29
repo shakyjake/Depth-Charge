@@ -1,4 +1,4 @@
 # Depth-Charge
-Automatically add depth to HTML elements
+Automatically make HTML elements 3d with JS
 
-Demo: https://shakyjake.github.io/Depth-Charge/
+Half-arsed demo: https://shakyjake.github.io/Depth-Charge/
